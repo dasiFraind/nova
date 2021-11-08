@@ -1,0 +1,14 @@
+C:\Users\USER_PC\Desktop\homeTest\homeTest\obj\Debug\homeTest.csproj.AssemblyReference.cache
+C:\Users\USER_PC\Desktop\homeTest\homeTest\obj\Debug\homeTest.csproj.CoreCompileInputs.cache
+C:\Users\USER_PC\Desktop\homeTest\homeTest\bin\Debug\homeTest.exe.config
+C:\Users\USER_PC\Desktop\homeTest\homeTest\bin\Debug\homeTest.exe
+C:\Users\USER_PC\Desktop\homeTest\homeTest\bin\Debug\homeTest.pdb
+C:\Users\USER_PC\Desktop\homeTest\homeTest\obj\Debug\homeTest.exe
+C:\Users\USER_PC\Desktop\homeTest\homeTest\obj\Debug\homeTest.pdb
+C:\Users\USER_PC\Documents\תכנות\nova\homeTest\homeTest\bin\Debug\homeTest.exe.config
+C:\Users\USER_PC\Documents\תכנות\nova\homeTest\homeTest\bin\Debug\homeTest.exe
+C:\Users\USER_PC\Documents\תכנות\nova\homeTest\homeTest\bin\Debug\homeTest.pdb
+C:\Users\USER_PC\Documents\תכנות\nova\homeTest\homeTest\obj\Debug\homeTest.csproj.AssemblyReference.cache
+C:\Users\USER_PC\Documents\תכנות\nova\homeTest\homeTest\obj\Debug\homeTest.csproj.CoreCompileInputs.cache
+C:\Users\USER_PC\Documents\תכנות\nova\homeTest\homeTest\obj\Debug\homeTest.exe
+C:\Users\USER_PC\Documents\תכנות\nova\homeTest\homeTest\obj\Debug\homeTest.pdb
